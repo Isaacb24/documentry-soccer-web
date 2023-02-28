@@ -1,0 +1,21 @@
+p{
+  border: 5px solid black;
+  border-radius: 15px;
+  padding: 5px;
+  background-color: black;
+  display: block;
+  flex: auto;
+  padding: 20px;
+  color: darkblue;
+}
+body{
+background-color: green
+}
+hr{
+  color: whitesmoke;
+}
+
+img{
+  border: 10px solid whitesmoke ;
+  size-adjust: -10px;
+}
