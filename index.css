@@ -1,21 +1,21 @@
 p{
-  border: 5px solid black;
+  border: 5px solid lightgrey;
   border-radius: 15px;
   padding: 5px;
-  background-color: black;
+  background-color: lightblue;
   display: block;
   flex: auto;
-  padding: 20px;
-  color: darkblue;
+  padding: 40px;
+  color: white;
 }
 body{
-background-color: green
+background-color: lightgray
 }
 hr{
   color: whitesmoke;
 }
 
 img{
-  border: 10px solid whitesmoke ;
+  border: 5px solid white ;
   size-adjust: -10px;
 }
